@@ -1,4 +1,4 @@
-# vue-exercise
+# Vue-task-tracker
 It is a task tracker which uses VueJs in frontend and json-server as backend. <br>
 It will create db in your local directory.
 
